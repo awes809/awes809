@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @awes809
+- 👀 I’m interested in making games in unity
+- 🌱 I’m currently learning C#
